@@ -17,8 +17,9 @@ h1 {
 }
 
 .half-width {
-    width: 50%;
+    width: 45%;
     padding-left: 5%;
+    padding-right: 5%;
 }
 
 .half-width img {
@@ -81,4 +82,11 @@ h2 {
 
 footer p {
     text-align: center;
+}
+
+.drem-big {
+    display: flex;
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
